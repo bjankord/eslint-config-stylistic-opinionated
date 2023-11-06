@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-stylistic-opinionated",
+  "version": "0.1.0",
+  "description": "ESLint config with opinionated stylistic rules for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjankord/eslint-config-stylistic-opinionated.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "stylistic",
+    "javascript"
+  ],
+  "author": "Brett Jankord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjankord/eslint-config-stylistic-opinionated/issues"
+  },
+  "homepage": "https://github.com/bjankord/eslint-config-stylistic-opinionated#readme"
+}
