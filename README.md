@@ -1,2 +1,2 @@
 # eslint-config-stylistic-opinionated
-ESLint config for opinionated stylistic rules I prefer
+An opinionated ESLint stylistic config for JavaScript
