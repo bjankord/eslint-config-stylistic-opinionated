@@ -14,5 +14,5 @@ $ npm i -D eslint @stylistic/eslint-plugin-js eslint-config-stylistic-opinionate
 **Yarn**
 
 ```console
-$ yarn add eslint @stylistic/eslint-plugin-js eslint-config-stylistic-opinionated
+$ yarn add -D eslint @stylistic/eslint-plugin-js eslint-config-stylistic-opinionated
 ```
