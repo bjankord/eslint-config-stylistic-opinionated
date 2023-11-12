@@ -16,3 +16,13 @@ $ npm i -D eslint @stylistic/eslint-plugin-js eslint-config-stylistic-opinionate
 ```console
 $ yarn add -D eslint @stylistic/eslint-plugin-js eslint-config-stylistic-opinionated
 ```
+
+## Usage
+Inside your eslint config, add the following to extend the eslint-config-stylistic-opinionated config
+
+```js
+extends: [
+  'eslint-config-stylistic-opinionated',
+  // other extends  
+],
+```
